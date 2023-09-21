@@ -11,13 +11,14 @@ redirect_from:
 
 ## Education
 
-* **University of Southern California - Viterbi School of Engineering**
+* **University of Southern California - Viterbi School of Engineering**<br>
   Bachelor of Science in Industrial and Systems Engineering (ISE),
   Specialization in Applied Analytics
   09/2022-Present
   GPA: 3.81/4.00
   Core Courses: Operations Research: Deterministic Model (A), Supply Chain Design (A), Operations Research:         Stochastic Model (A), Applications of Machine Learning (A)
   Research Assistant at Center for Undergraduate Research in Viterbi Engineering (09/2022-05/2024)
+  
 * **Sichuan University - Pittsburgh Institute (SCUPI)**
   Bachelor of Engineering in Industrial Engineering (IE)
   09/2020-06/2024
