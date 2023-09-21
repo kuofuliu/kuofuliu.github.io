@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* **University of Southern California - Viterbi School of Engineering**\n
+* **University of Southern California - Viterbi School of Engineering**
   Bachelor of Science in Industrial and Systems Engineering (ISE),
   Specialization in Applied Analytics
   09/2022-Present
