@@ -12,11 +12,11 @@ redirect_from:
 ## Main Research
 * **Parameters Estimation and Global Sensitivity Analysis of Time-Varying SEIRD Compartmental Model Based on State-level Covid-19 Data in the U.S.**<br>
   Supervised by Prof. Randolph Hall | USC | 11/2022-Present<br>
-  Fitted 8 parameters (4 shape parameters of 2 sigmoid functions) for each state using Covid-19 case and death data to an extended SEIRD model in which transmission rate and fatality rate changing chronologically, with the model reaching RRMSEs of 1.54% for cases and 1.20% for deaths.<br>
-  Conducted sensitivity analysis with a self-developed Monte Carlo simulation algorithm and investigated scenarios of 8 parameters following uniform, normal, lognormal, gamma, and truncated normal distribution, inspecting 245 days in California and New York State starting from March 13, 2020.<br>
-  Established country-level sensitivity analysis with 410 parameters for the SERID model considering the transportation effect between states on COVID-19 transmission among all 50 states.<br>
-* Integration of Dynamic Disease Transmission Modeling with Spatial Interaction Analysis (First draft completed; Second Author; Will submit to Transportation Research Part A: Policy and Practice)<br>
-* Optimal Vaccine Allocation Methods Considering Dynamic Transmission in the United States (In composition; Third author; Will submit to European Journal of Medical Research)<br>
+  * Fitted 8 parameters (4 shape parameters of 2 sigmoid functions) for each state using Covid-19 case and death data to an extended SEIRD model in which transmission rate and fatality rate changing chronologically, with the model reaching RRMSEs of 1.54% for cases and 1.20% for deaths.<br>
+  * Conducted sensitivity analysis with a self-developed Monte Carlo simulation algorithm and investigated scenarios of 8 parameters following uniform, normal, lognormal, gamma, and truncated normal distribution, inspecting 245 days in California and New York State starting from March 13, 2020.<br>
+  * Established country-level sensitivity analysis with 410 parameters for the SERID model considering the transportation effect between states on COVID-19 transmission among all 50 states.<br>
+  * **Integration of Dynamic Disease Transmission Modeling with Spatial Interaction Analysis**<br> (First draft completed; Second Author; Will submit to Transportation Research Part A: Policy and Practice)<br>
+  **Optimal Vaccine Allocation Methods Considering Dynamic Transmission in the United States**<br> (In composition; Third author; Will submit to European Journal of Medical Research)<br>
 
 
 Investigation of Optimal Chest Compression Point During Cardiopulmonary Resuscitation (CPR)	Chengdu/Nanjing, China
