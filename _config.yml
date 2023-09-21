@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kuofu Liu - Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Kuofu Liu"
 description              : &description "ISE student at USC & SCUPI"
