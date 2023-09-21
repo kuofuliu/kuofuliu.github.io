@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+My <a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_CV.pdf">CV</a>.
 ## Main Research
 * **Parameters Estimation and Global Sensitivity Analysis of Time-Varying SEIRD Compartmental Model Based on State-level Covid-19 Data in the U.S.**<br>
   Supervised by Prof. Randolph Hall | USC
