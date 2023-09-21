@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_CV.pdf">CV</a>
 ## Education
 
 * **University of Southern California - Viterbi School of Engineering**<br>
