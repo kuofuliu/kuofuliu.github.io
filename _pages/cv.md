@@ -16,7 +16,7 @@ redirect_from:
   Specialization in Applied Analytics<br>
   09/2022-Present<br>
   GPA: 3.81/4.00<br>
-  **Core Courses**: Operations Research: Deterministic Model (A), Supply Chain Design (A), Operations Research:         Stochastic Model (A), Applications of Machine Learning (A)<be>
+  **Core Courses**: Operations Research: Deterministic Model (A), Supply Chain Design (A), Operations Research:         Stochastic Model (A), Applications of Machine Learning (A)<br>
   **Research Assistant** at Center for Undergraduate Research in Viterbi Engineering (09/2022-05/2024)
   
 * **Sichuan University - Pittsburgh Institute (SCUPI)**<br>
