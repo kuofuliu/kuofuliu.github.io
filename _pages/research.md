@@ -20,21 +20,21 @@ My <a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_CV.pdf">CV</a>.
 
     
 * **Development of Outcome Prediction Models for Acute Diquat Poisoning**<br>
-  Supervised by Prof. Jan Reinhardt | Sichuan University & Jiangsu Province Hospital<br>
+  Supervised by <a href="https://www.researchgate.net/profile/Jan-Reinhardt-4">Prof. Jan Reinhardt</a> | Sichuan University & Jiangsu Province Hospital<br>
   * Established 2 outcome prediction models using Cox proportional hazards regression to predict 28-day survival outcomes based on self-reported information at admission (triage model) and biomedical indicators (prognostic model) to achieve AUC of 0.95 and 0.90 on the testing set, respectively.<br>
   * Created 2 corresponding online nomograms using shinyapps.io for the triage and prognosis models to facilitate clinical application and accessibility.<br>
   * **Survival Prediction Models for Triage and Prognosis in Acute Diquat Poisoning**<br> (Third author; Submitted to Annals of Emergency Medicine)
 
     
 * **Reform of Health Insurance Payment System for Rehabilitation Services based on WHO’s International Classification of Functioning, Disability, and Health (ICF)**<br>
-  Supervised by Prof. Jan Reinhardt | Sichuan University & Jiangsu Province Hospital<br>
+  Supervised by <a href="https://www.researchgate.net/profile/Jan-Reinhardt-4">Prof. Jan Reinhardt</a> | Sichuan University & Jiangsu Province Hospital<br>
   * Performed multivariate imputation to fill in missing values of 17 admission ICF indices and 17 discharge ICF indices for 1,279 patients.<br>
   * Conducted model-based clustering and k-prototypes clustering to group inpatients for prospective budgeting based on information at admission and discharge, including age, gender, expense, hospitalization days, and ICF indices.<br>
   * Tried 10 classification algorithms to confirm group allocation based on information at admission, in which SVM with RBF kernel performed best with accuracy of 92.31% on the testing set.<br>
   * Calculated Minimal Important Difference (MID) to define threshold level of ICF sum changing before and after hospitalization with identification of clinical minimal difference group based on Barthel Index classification.<br>
 
 * **Demand Prediction and Capacity Planning for Emergency Department**<br>
-  Supervised by Prof. Jan D. Reinhardt | Jiangsu Province Hospital<br>
+  Supervised by <a href="https://www.researchgate.net/profile/Jan-Reinhardt-4">Prof. Jan Reinhardt</a> | Jiangsu Province Hospital<br>
   * Collected daily climate data, air quality data, COVID-19 pandemic data in Nanjing, and daily related data from the electronic medical record of JPH from January 1st, 2019, to December 31st, 2021.<br>
   * Established a distributed lag non-linear model to estimate independent and joint effects of 3 factors on daily emergency department visits, including heat waves, COVID-19 cases, and air pollution.<br>
   * Developed a prediction model to forecast daily emergency department visits by comparing algorithms including random forest, ridge regression, SVM, ARIMA, SARIMA, XGBoost, CNN, LSTM, in which Single-layer bi-direction LSTM performed best with MAPE of 9.08% on the testing set.<br>
