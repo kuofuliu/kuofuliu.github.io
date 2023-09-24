@@ -11,7 +11,7 @@ redirect_from:
 My <a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_CV.pdf">CV</a>.
 ## Main Research
 * **Parameters Estimation and Global Sensitivity Analysis of Time-Varying SEIRD Compartmental Model Based on State-level Covid-19 Data in the U.S.**<br>
-  Supervised by Prof. Randolph Hall | USC
+  Supervised by <a href="https://viterbi.usc.edu/directory/faculty/Hall/Randolph">Prof. Randolph Hall</a> | USC
   * Fitted 8 parameters (4 shape parameters of 2 sigmoid functions) for each state using Covid-19 case and death data to an extended SEIRD model in which transmission rate and fatality rate changing chronologically, with the model reaching RRMSEs of 1.54% for cases and 1.20% for deaths.<br>
   * Conducted sensitivity analysis with a self-developed Monte Carlo simulation algorithm and investigated scenarios of 8 parameters following uniform, normal, lognormal, gamma, and truncated normal distribution, inspecting 245 days in California and New York State starting from March 13, 2020.<br>
   * Established country-level sensitivity analysis with 410 parameters for the SERID model considering the transportation effect between states on COVID-19 transmission among all 50 states.<br>
