@@ -22,7 +22,7 @@ Here is my complete <a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_C
 * **Development of Outcome Prediction Models for Acute Diquat Poisoning**<br>
   Supervised by <a href="https://www.researchgate.net/profile/Jan-Reinhardt-4">Prof. Jan Reinhardt</a> | Sichuan University & Jiangsu Province Hospital<br>
   * Established 2 outcome prediction models using Cox proportional hazards regression to predict 28-day survival outcomes based on self-reported information at admission (triage model) and biomedical indicators (prognostic model) to achieve AUC of 0.95 and 0.90 on the testing set, respectively.<br>
-  * Established interactive web apps for the <a href="https://dq-nomogram.shinyapps.io/DynNomapp/>triage</a> and <a href="https://dq-nomogram.shinyapps.io/DynNomapp1/>prognostic</a> models using the Shiny package in R to facilitate clinical application.<br>
+  * Established interactive web apps for the <a href="https://dq-nomogram.shinyapps.io/DynNomapp/">triage</a> and <a href="https://dq-nomogram.shinyapps.io/DynNomapp1/">prognostic</a> models using the Shiny package in R to facilitate clinical application.<br>
   * **Survival Prediction Models for Triage and Prognosis in Acute Diquat Poisoning**<br> (Co-author; Submitted to <i>Annals of Emergency Medicine</i>)
 
     
