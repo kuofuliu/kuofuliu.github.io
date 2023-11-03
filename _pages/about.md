@@ -8,6 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-My career goal is to pursue research at the intersection of healthcare systems, data analysis, and optimization. As evidenced by my prior experience in combined medical and data analysis projects, my passion lies in leveraging data-driven approaches to improve healthcare outcomes. In grad school, I will continue to do research regarding healthcare systems modeling and medical-related optimizations. With more statistical trended methods applied in clinical poisoning diagnosis, location of pushing in CPR, calculation of charges for inpatients, and emergency department capacity planning of doctors and nurses, as well as the perfection of the vaccine supply chain, I believe more people will be benefited, and more life will be saved with more efficiency.
+My career goal is to pursue research at the intersection of healthcare systems, machine learning, and optimization.
 
-Please kindly find detailed information in the <a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_CV.pdf">CV</a>.
+**What I have done:**
+
+Clustering & Classification Algorithms Application: K-prototypes, Random Forest, SVM, KNN, etc.
+
+Survival Analysis: Cox Regression.
+
+Time Series Analysis: ARIMA, LSTM.
+
+**What I am doing:**
+
+Pandemic Modeling: SEIR Compartment Model.
+
+Multi-stage Stochastic Programming.
+
+
+
+*Please kindly find detailed information in the <a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_CV.pdf">CV</a>.*
