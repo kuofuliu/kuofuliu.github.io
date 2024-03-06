@@ -24,6 +24,5 @@ Here is my complete <a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_C
   <i>Bachelor of Engineering in Industrial Engineering (IE)</i><br>
   <i>09/2020-06/2024 (Expected)</i><br>
   GPA: 3.88/4.00; 91.2/100<br>
-  Teaching Assistant for <a href="https://scupi.scu.edu.cn/wp-content/uploads/2022/03/MATH0240-Analytic-Geometry-and-Calculus-3-sec1-Yang-Zheng-1.pdf">Analytical Geometry & Calculus 3</a> (2022 Spring)<br>
   **Core Courses**: Statistical Testing & Regression (A), Productivity Analysis (A), Information Systems Engineering (A), Human Factors (A), Matrices & Linear Algebra (A), Differential Equations (A)
 
