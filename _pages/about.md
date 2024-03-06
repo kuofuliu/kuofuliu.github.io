@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am interested in machine learning, mathematical modeling, stochastic programming, and optimization. My current research application focuses on healthcare, but I am open to other fields and interdisciplinary opportunities.
+
 **Familiar Methodologies**
 
 Clustering & Classification Algorithms: K-prototypes, Random Forest, SVM, KNN, etc
