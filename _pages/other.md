@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Kuofu Liu"
-permalink: /other/
+permalink: /Teaching/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,5 @@ redirect_from:
 
 {% include base_path %}
 Here is my complete <a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_CV.pdf">CV</a>.
-* Standardized Tests: TOEFL 107: R 28, L 28, S 26, W 25
-* Programming Skills: Proficient in Python, R; Advanced in MATLAB, SQL
-* Technical Skills: Proficient in MS Office (Word, Excel, PowerPoint, Access)
+* Teaching Assistant for <a href="https://scupi.scu.edu.cn/wp-content/uploads/2022/03/MATH0240-Analytic-Geometry-and-Calculus-3-sec1-Yang-Zheng-1.pdf">Analytic Geometry and Calculus 3 (Spring, 2022)</a>.
 
