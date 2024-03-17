@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in machine learning, mathematical modeling, stochastic programming, and optimization. My current research application focuses on healthcare, but I am open to other fields and interdisciplinary opportunities.
+I am interested in machine learning, mathematical modeling, and stochastic programming. My current research application focuses on healthcare, but I am open to other fields and interdisciplinary opportunities.
 
 **Familiar Methodologies**
 
