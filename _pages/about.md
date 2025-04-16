@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in machine learning, mathematical modeling, and stochastic programming. My current research application focuses on healthcare, but I am open to other fields and interdisciplinary opportunities.
+I am interested in using Operations Research and Machine Learning methods to tackle problems in the healthcare domain.
 
 **Familiar Methodologies**
 
@@ -18,15 +18,10 @@ Survival Analysis
 
 Time Series Analysis: ARIMA, LSTM
 
-Disease Transmission Model (PDE)
+SEIRD Disease Transmission Model(PDE-based)
 
-Vaccine Allocation (Optimization)
+Gravity Model
 
-**What I am doing:**
-
-Pandemic Modeling: Gravity Model, SEIR Compartment Model
-
-Multi-stage Stochastic Programming in Closed Loop Supply Chain.
 
 
 *Please kindly find detailed information in the <a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_CV.pdf">CV</a>.*
