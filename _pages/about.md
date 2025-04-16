@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in using Operations Research and Machine Learning methods to tackle problems in the healthcare domain.
+I am interested in using Operations Research and Machine Learning methods to tackle problems in the healthcare domain. *Please kindly find more information in my <a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_CV.pdf">CV</a>.*
 
 **Familiar Methodologies**
 
@@ -24,4 +24,4 @@ Gravity Model
 
 
 
-*Please kindly find detailed information in the <a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_CV.pdf">CV</a>.*
+
