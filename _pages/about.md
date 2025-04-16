@@ -12,13 +12,13 @@ I am interested in using Operations Research and Machine Learning methods to tac
 
 **Familiar Methodologies**
 
-Clustering & Classification Algorithms: K-prototypes, Random Forest, SVM, KNN, etc
+Clustering & Classification Algorithms: K-prototypes, Random Forest, SVM, KNN, etc.
 
 Survival Analysis
 
 Time Series Analysis: ARIMA, LSTM
 
-SEIRD Disease Transmission Model(PDE-based)
+SEIRD Disease Transmission Model (PDE-based)
 
 Gravity Model
 
