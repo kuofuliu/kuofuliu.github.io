@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Kuofu Liu"
   avatar           : "profile.png"
-  bio              : "PhD student at Industrial and Operations Engineering, University of Michigan"
+  bio              : "PhD student in Industrial and Operations Engineering, University of Michigan"
   location         : "Ann Arbor, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "kuofuliu@usc.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=dDHnI24AAAAJ&hl=en"
+  email            : "kuofuliu@umich.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Kuofu-Liu"
   uri              :
   bitbucket        :
   codepen          :
