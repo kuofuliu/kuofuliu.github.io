@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in using Operations Research and Machine Learning methods to tackle problems in the healthcare domain. *Please kindly find more information in my <a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_CV.pdf">CV</a>.*
+I am generally interested in using Operations Research and Machine Learning methods to tackle healthcare problems. *Please kindly find more information in my <a href="https://kuofuliu.github.io/images/CV_0503.pdf">CV</a>.*
 
 **Familiar Methodologies**
 
-Clustering & Classification Algorithms: K-prototypes, Random Forest, SVM, KNN, etc.
+Markov Decision Process (MDP) Models;
 
-Survival Analysis
+Clustering & Classification Algorithms: K-prototypes, Random Forest, SVM, KNN, etc.;
 
-Time Series Analysis: ARIMA, LSTM
+Time Series Analysis: ARIMA, LSTM;
 
-SEIRD Disease Transmission Model (PDE-based)
+Survival Analysis: Kaplan-Meier Analysis, Cox Regression, Fine-Gray Competing Risks Model;
 
-Gravity Model
+SEIRD Disease Transmission Model & Gravity Model;
 
 
 
