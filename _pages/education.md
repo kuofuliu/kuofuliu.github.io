@@ -37,7 +37,7 @@ Here is my complete <a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_C
   &nbsp;&nbsp;&nbsp;<i>Bachelor of Engineering in Industrial Engineering (IE)</i><br>
   &nbsp;&nbsp;&nbsp;<i>09/2020–06/2022</i><br>
   &nbsp;&nbsp;&nbsp;GPA: 3.88/4.0<br>
-  &nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong> for <a href="https://scupi.scu.edu.cn/wp-content/uploads/2022/03/MATH0240-Analytic-Geometry-and-Calculus-3-sec1-Yang-Zheng-1.pdf" target="_blank">Analytical Geometry & Calculus III</a> (01/2022–06/2022)<br>
+<!--   &nbsp;&nbsp;&nbsp;<strong>Teaching Assistant</strong> for <a href="https://scupi.scu.edu.cn/wp-content/uploads/2022/03/MATH0240-Analytic-Geometry-and-Calculus-3-sec1-Yang-Zheng-1.pdf" target="_blank">Analytical Geometry & Calculus III</a> (01/2022–06/2022)<br> -->
   &nbsp;&nbsp;&nbsp;<strong>Core Courses</strong>: Information Systems Engineering (A), Differential Equations (A), Human Factors (A), Statistical Testing & Regression (A), Matrices & Linear Algebra (A), Productivity Analysis (A)
 </p>
 
