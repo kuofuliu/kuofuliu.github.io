@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Here is my complete <a href="https://kuofuliu.github.io/images/0918Kuofu%20Liu_CV.pdf">CV</a>.
+Here is my complete <a href="https://kuofuliu.github.io/images/CV_0503.pdf">CV</a>.
 ## Education
 
 <!-- University of Michigan -->
