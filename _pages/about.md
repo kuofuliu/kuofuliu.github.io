@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in <a href="https://lavieri.engin.umich.edu/">Prof. Mariel Lavieri's lab</a>. I am generally interested in using Operations Research and Machine Learning methods to tackle healthcare problems. *Please kindly find more information in my <a href="https://kuofuliu.github.io/images/CV_0503.pdf">CV</a>.*
+I am a second-year PhD student advised by <a href="https://lavieri.engin.umich.edu/">Dr. Mariel Lavieri</a>. I am generally interested in using Operations Research and Machine Learning methods to tackle healthcare problems. *Please kindly find more information in my <a href="https://kuofuliu.github.io/images/CV_0503.pdf">CV</a>.*
 
 **Familiar Methodologies**
 
