@@ -8,19 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student advised by <a href="https://lavieri.engin.umich.edu/">Dr. Mariel Lavieri</a>. I am generally interested in using Operations Research and Machine Learning methods to tackle healthcare problems. *Please kindly find more information in my <a href="https://kuofuliu.github.io/images/CV_0503.pdf">CV</a>.*
+I am a PhD student in the Industrial and Operations Engineering Department at the University of Michigan, advised by <a href="https://lavieri.engin.umich.edu/">Dr. Mariel Lavieri</a>. My research focuses on Operations Research, Machine Learning, and healthcare applications. *[More information in <a href="https://kuofuliu.github.io/images/CV_0503.pdf">CV</a>]*
 
-**Familiar Methodologies**
+**Methodological Areas**
 
-Markov Decision Process (MDP) Models;
+Dynamic Programming; Markov Decision Process;
 
-Clustering & Classification Algorithms: K-prototypes, Random Forest, SVM, KNN, etc.;
+Machine Learning Algorithms; Time Series Analysis; Survival Analysis;
 
-Time Series Analysis: ARIMA, Kalman filter;
-
-Survival Analysis: Kaplan-Meier Analysis, Cox Regression, Fine-Gray Competing Risks Model;
-
-SEIRD Disease Transmission Model & Gravity Model;
+SEIRD Epidemiological Modeling;
 
 
 
