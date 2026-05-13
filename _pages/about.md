@@ -12,11 +12,10 @@ I am a PhD student in the Industrial and Operations Engineering Department at th
 
 **Methodological Areas**
 
-Dynamic Programming; Markov Decision Process;
+Dynamic Programming; Reinforcement Learning;
 
-Machine Learning Algorithms; Time Series Analysis; Survival Analysis;
+Machine Learning Algorithms; Epidemiological Modeling; Time Series Analysis; Survival Analysis;
 
-SEIRD Epidemiological Modeling;
 
 
 
