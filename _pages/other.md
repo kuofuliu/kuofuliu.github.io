@@ -8,5 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-* Teaching Assistant for <a href="https://scupi.scu.edu.cn/wp-content/uploads/2022/03/MATH0240-Analytic-Geometry-and-Calculus-3-sec1-Yang-Zheng-1.pdf" target="_blank">Analytical Geometry & Calculus III</a> (01/2022–06/2022)<br>.
+* Graduate Student Instructor for IOE 447, IOE 373
+* Teaching Assistant for <a href="https://scupi.scu.edu.cn/wp-content/uploads/2022/03/MATH0240-Analytic-Geometry-and-Calculus-3-sec1-Yang-Zheng-1.pdf" target="_blank">Analytical Geometry & Calculus III</a> (01/2022–06/2022)<br>
 
